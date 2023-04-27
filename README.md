@@ -2,10 +2,10 @@
 ###### Creado con HTML5 y CSS3 en el bootcamp de TecnolochicasPro
 
 ## ÍNDICE
-* [Intro]()
-* [¿Qué construí?]()
-* [Objetivos del proyecto]()
-* [Link al Demo!]()
+* [Intro](https://github.com/danygpe99/danygpe99.github.io/edit/main/README.md#intro)
+* [¿Qué construí?](https://github.com/danygpe99/danygpe99.github.io/edit/main/README.md#qu%C3%A9-constru%C3%AD)
+* [Objetivos del proyecto](https://github.com/danygpe99/danygpe99.github.io/edit/main/README.md#objetivo-del-proyecto)
+* [Link al Demo!](https://github.com/danygpe99/danygpe99.github.io/edit/main/README.md#link-del-demo)
 
 ***
 ## Intro
