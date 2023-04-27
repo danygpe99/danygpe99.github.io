@@ -25,4 +25,4 @@ El proyecto está enfocado en la construcción de la interfaz de Google, tomando
 Aprender a utilizar etiquetas de HTML5 y las propiedades de CSS, asi como identificar componentes base de un sitio web para analizarlas y replicarlas mediante componentes básicos.
 
 ## ¡Link del Demo!
-Visualiza mi proyecto Terminado aquí [Clonación de Google](danygpe99.github.io)
+Visualiza mi proyecto Terminado aquí [Clonación de Google](https://github.com/danygpe99/danygpe99.github.io)
